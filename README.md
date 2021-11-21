@@ -26,7 +26,11 @@
 8. Interpretation of Efficiency & Learning Outcomes
 
  
- 
+The File: EAD_NormalANN contains Notebook for training a normal ANN with the Churn Modelling Dataset
+
+The File: EAD_Diff_Privacy_ANN contains Notebook for training a Differentially Private ANN with the Churn Modelling Dataset
+
+For Detailed Results and Explainations, please read the Report Team17_ChurnModelling_DiffPriv_ANN
  
  
  
