@@ -1,6 +1,6 @@
  #  A Comparitive Study on Differential Privacy with Neural Networks
  
- Authors: Soundarya Ganesh & Araz Sharma
+ ## Authors: Soundarya Ganesh & Araz Sharma
  
  This Folder contains codes, datasets and reports for a project on a comparitive study on Differential Privacy with Neural Networks
  
