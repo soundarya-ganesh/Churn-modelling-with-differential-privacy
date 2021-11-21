@@ -8,9 +8,13 @@
 2. EDA (Exploratory Data Analysis)
 3. Feature Selection (Information + Privacy)
 4. Pre-Processing
-  4.1 Check for Missing and Anomalous data
-  4.2 Encoding Categorical Columns
-  4.3 Standard Scaling
+
+  * 4.1 Check for Missing and Anomalous data
+  
+  * 4.2 Encoding Categorical Columns
+  
+  * 4.3 Standard Scaling
+  
 5. Train-Validation-Test Split
 6. Two Approaches for Training
  I. Training an ANN
