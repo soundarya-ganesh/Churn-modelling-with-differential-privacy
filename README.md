@@ -1,4 +1,3 @@
-﻿# Churn-modelling-with-differential-privacy-Neural-Nets
  #  A Comparitive Study on Differential Privacy with Neural Networks
  
  This Folder contains codes, datasets and reports for a project on a comparitive study on Differential Privacy with Neural Networks
