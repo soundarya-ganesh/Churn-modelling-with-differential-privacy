@@ -28,11 +28,11 @@
 8. Interpretation of Efficiency & Learning Outcomes
 
 **In the sub-directory code**
-* The File: **EAD_NormalANN** contains Notebook for training a normal ANN with the Churn Modelling Dataset
-* The File: **EAD_Diff_Privacy_ANN** contains Notebook for training a Differentially Private ANN with the Churn Modelling Dataset
+* The File: **Diff_Privacy_FeatureMod_ANN.ipynb** contains Notebook for training a normal ANN with the Churn Modelling Dataset
+* The File: **Diff_Private_ANN_TensorFlow_Privacy.ipynb** contains Notebook for training a Differentially Private ANN with the Churn Modelling Dataset
 * Dataset used is: Churn_Modelling.csv
 
-For Detailed Results and Explainations, please read the **Report Team17_ChurnModelling_DiffPriv_ANN**
+For Detailed Results and Explaination, please read the **Report Team17_ChurnModelling_DiffPriv_ANN**
  
  
  
